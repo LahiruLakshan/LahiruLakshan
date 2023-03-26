@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Python, AngularJS, ReactJS, React Native, Flutter, HTML&CSS, JS, TS**
 
-- 📫 How to reach me **balahirulakshan@gmail.com**  | **https://lahirulakshan.me/**
+- 📫 How to reach me **balahirulakshan@gmail.com**  | **lahirulakshan.web.app/**
 ##
 ## Connect with me:
 
@@ -46,7 +46,7 @@
 
 
 
-[website]: https://lahirulakshan.me/
+[website]: https://lahirulakshan.web.app/
 [instagram]: https://www.instagram.com/lahiru_lakshan_tissera/
 [gmail]: mailto:balahirulakshan@gmail.com
 [facebook]: https://www.facebook.com/Lahiru.Lakshan.Tissera/
