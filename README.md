@@ -28,15 +28,6 @@
 ![Lahiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=LahiruLakshan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruLakshan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) 
 
-<br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-![Lahiru's Activity Graph](https://activity-graph.herokuapp.com/graph?username=LahiruLakshan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
 ##
 ## Languages and Tools:
 
