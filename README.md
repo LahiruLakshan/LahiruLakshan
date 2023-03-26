@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lahiru Lakshan Tissera</h1>
 
-<h3 align="center">Full-Stack Developer | UI/UX Lead | CS Undergraduate | DevOps Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | UI/UX Lead | SE Undergraduate | Mobile App Developer | Web App Developer</h3>
 
 ##
 
